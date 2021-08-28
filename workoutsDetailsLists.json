@@ -2,13 +2,13 @@
   {
     "name": "Exercise 1",
     "workoutArea": ["Biceps","Shoulder"],
-    "difficultyLevel": "beginner",
+    "difficultyLevel": "Beginner",
     "equipments": ["All"]
   },
   {
     "name": "Exercise 2",
     "workoutArea": ["Shoulder"],
-    "difficultyLevel": "intermediate",
+    "difficultyLevel": "Intermediate",
     "equipments": ["Other"]
   }
 ]
