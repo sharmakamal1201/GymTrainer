@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Exercise 1",
+    "workoutArea": ["Biceps","Shoulder"],
+    "difficultyLevel": "beginner",
+    "equipments": ["All"]
+  },
+  {
+    "name": "Exercise 2",
+    "workoutArea": ["Shoulder"],
+    "difficultyLevel": "intermediate",
+    "equipments": ["Other"]
+  }
+]
