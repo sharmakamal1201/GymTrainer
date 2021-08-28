@@ -1,12 +1,20 @@
 [
   {
     "name": "Exercise 1",
+    "imageUrl": "https://ignorelimits.com/wp-content/uploads/2020/02/dumbbell-bicep-workout.jpg",
+    "GIFUrl": "https://turnaroundfitness.com/wp-content/uploads/2016/05/04.gif",
+    "steps": "1. Step A\n 2. Step B",
+    "cautions": "1. Caution A\n 2. Cautions B",
     "workoutArea": ["Biceps","Shoulder"],
     "difficultyLevel": "Beginner",
     "equipments": ["All"]
   },
   {
     "name": "Exercise 2",
+    "imageUrl": "https://ignorelimits.com/wp-content/uploads/2020/02/dumbbell-bicep-workout.jpg",
+    "GIFUrl": "https://turnaroundfitness.com/wp-content/uploads/2016/05/04.gif",
+    "steps": "1. Step A\n 2. Step B",
+    "cautions": "1. Caution A\n 2. Cautions B",
     "workoutArea": ["Shoulder"],
     "difficultyLevel": "Intermediate",
     "equipments": ["Other"]
